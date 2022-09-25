@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mcDi8EmroHz9U+P/avVyMsG/zJV2Pxa7HmQZqSEdk1Dj60UC8Sx8ZHWq6/ZhNZmH4ci1Vh8ND4b9XXuNf7vHBg==",
+  "success": true,
+  "projectFilePath": "C:\\project\\.NET6_backend_API\\breakfastApp\\breakfastApp\\breakfastApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inw11\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
+    "C:\\Users\\inw11\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\inw11\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\inw11\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\inw11\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\inw11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\inw11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

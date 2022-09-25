@@ -1,0 +1,19 @@
+@id = ec264804-a4b1-48d5-b8f1-d9b4bbcbb2bd
+POST https://localhost:5022/breakfasts
+Content-Type: application/json
+
+{
+    "Name": "Vegan Sunshine",
+    "Description": "Vegan everything! Join us for a healthy breakfast..",
+    "StartDateTime": "2022-04-08T08:00:00",
+    "EndDateTime": "2022-04-08T11:00:00",
+    "Savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}

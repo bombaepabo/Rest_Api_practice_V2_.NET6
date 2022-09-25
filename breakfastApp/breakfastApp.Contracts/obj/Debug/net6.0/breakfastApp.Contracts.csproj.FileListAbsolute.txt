@@ -1,0 +1,12 @@
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\bin\Debug\net6.0\breakfastApp.Contracts.deps.json
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\bin\Debug\net6.0\breakfastApp.Contracts.dll
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\bin\Debug\net6.0\breakfastApp.Contracts.pdb
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.csproj.AssemblyReference.cache
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.AssemblyInfoInputs.cache
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.AssemblyInfo.cs
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.csproj.CoreCompileInputs.cache
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.dll
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\refint\breakfastApp.Contracts.dll
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\breakfastApp.Contracts.pdb
+C:\project\.NET6_backend_API\breakfastApp\breakfastApp.Contracts\obj\Debug\net6.0\ref\breakfastApp.Contracts.dll
